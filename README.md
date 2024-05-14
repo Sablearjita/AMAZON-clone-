@@ -1,24 +1,24 @@
-## Amazon Clone
+# Amazon Clone
 
 This project is an Amazon clone built using HTML and CSS. It aims to replicate the basic layout and design of the Amazon website, allowing users to browse products and experience a similar user interface.
 
-## Table of Contents
+# Table of Contents
 
 1.Features
 2.Installation
 3.Usage
 4.Credits
 5.License
-## Features
-# Product Display:
+# Features
+## Product Display:
 Browse through a variety of products with images, descriptions, and pricing.
-# Navigation Menu:
+## Navigation Menu:
 Access different categories and sections of the website through a responsive navigation menu.
-# Cart Functionality:
+## Cart Functionality:
 Add products to a virtual cart for future purchase.
-# Footer:
+## Footer:
 Includes links to important pages such as About Us, Contact, and Policies.
-## Installation
+# Installation
 To run the Amazon clone locally, follow these steps:
 
 Clone the Repository: Use git clone to clone the repository to your local machine:
@@ -38,8 +38,8 @@ Open in Browser: Navigate to the directory where the project is cloned and open 
 
 
 
-## Credits
+# Credits
 This project was created by sablearjita. It is inspired by the design and functionality of the Amazon website.
 
-## License
+# License
 This project is licensed under the MIT License.
