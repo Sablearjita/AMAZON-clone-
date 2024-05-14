@@ -10,10 +10,14 @@ This project is an Amazon clone built using HTML and CSS. It aims to replicate t
 4.Credits
 5.License
 ## Features
-# Product Display: Browse through a variety of products with images, descriptions, and pricing.
-# Navigation Menu: Access different categories and sections of the website through a responsive navigation menu.
-# Cart Functionality: Add products to a virtual cart for future purchase.
-# Footer: Includes links to important pages such as About Us, Contact, and Policies.
+# Product Display:
+Browse through a variety of products with images, descriptions, and pricing.
+# Navigation Menu:
+Access different categories and sections of the website through a responsive navigation menu.
+# Cart Functionality:
+Add products to a virtual cart for future purchase.
+# Footer:
+Includes links to important pages such as About Us, Contact, and Policies.
 ## Installation
 To run the Amazon clone locally, follow these steps:
 
